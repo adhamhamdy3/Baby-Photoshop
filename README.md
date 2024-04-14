@@ -1,2 +1,2 @@
-# SP----Assignment-3
+# Assignment-3
 Baby Photoshop
