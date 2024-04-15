@@ -18,7 +18,7 @@
 // GitHub for our project
 // https://github.com/adhamhamdy333/Assignment-3.git
 
-// The Drive folder which have the System Diagram
+// System Diagram
 // https://bit.ly/3Uj0Uda
 
 #include <bits/stdc++.h> // Include necessary headers
